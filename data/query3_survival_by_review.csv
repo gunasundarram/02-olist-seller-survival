@@ -1,0 +1,6 @@
+"review_band","total_sellers","survived","survival_rate_pct"
+"No reviews",5,0,0.0
+"Low (< 3.0)",199,40,20.1
+"Medium (3.0-3.9)",283,126,44.5
+"Excellent (4.5+)",610,279,45.7
+"Good (4.0-4.4)",371,195,52.6
