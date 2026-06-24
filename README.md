@@ -20,15 +20,14 @@ they will still be active at month 12?
 
 ## 💡 Key Findings
 
-- 📉 Only **43.6%** of eligible Olist sellers survived to month 12 — 
-more than half churned within their first year
+- 📉 Only **43.6%** of eligible Olist sellers survived to month 12 more than half churned within their first year
 - 🚀 Sellers making **6+ orders in their first 90 days** are **3x more 
 likely to survive** than sellers making just 1 order (60.7% vs 20.5%)
-- ⭐ Review score matters but is a weaker signal — sellers with scores 
+- ⭐ Review score matters but is a weaker signal sellers with scores 
 of **4.0–4.4 outperform** perfect 5.0 scorers (52.6% vs 45.7%), 
 suggesting consistent quality beats occasional perfection
 - 🗺️ **Brasília (DF)** has the highest survival rate at **58.8%** while 
-São Paulo (SP) — despite having the most sellers — sits at only 44.1%
+São Paulo (SP) — despite having the most sellers sits at only 44.1%
 - ⚠️ **71% of sellers fall into At Risk or Critical Risk segments** 
 based on their first 90-day behaviour
 
@@ -54,24 +53,6 @@ based on their first 90-day behaviour
 | Data preparation | SQL CTEs | Seller survival table |
 | Visualisation | Power BI Desktop | 4-visual dashboard |
 | Dataset | Olist Brazilian E-Commerce | Kaggle open dataset |
-
----
-
-## 📁 Repository Structure
-
-02-olist-seller-survival/
-
-├── data/
-
-│   └── SQL query outputs
-
-├── powerbi/
-
-│   └── olist_seller_survival.pbix
-
-└── images/
-
-│   └── dashboard images
 
 ---
 
